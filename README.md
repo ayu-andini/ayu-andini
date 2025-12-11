@@ -62,7 +62,7 @@ Passionate about building impactful applications, teaching technology, and const
 - Led practicum sessions and supported students in technical learning  
 - Ensured lab operations and processed academic results  
 
-### **Cloud Computing Cohort — Bangkit Academy**
+### **Cloud Computing Cohort — Bangkit Academy by Google, Goto and Traveloka**
 - Implemented cloud solutions using Google Cloud Platform (GCP)  
 - Built cloud-based applications and managed infrastructure  
 
