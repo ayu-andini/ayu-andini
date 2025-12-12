@@ -4,7 +4,7 @@
 </p>-->
 
 <h1 align="center">👋 Hi, I'm <strong>Ayu Andini</strong></h1>
-<p align="center"><strong>Fullstack Developer | Tech Mentor</strong></p>
+<p align="center"><strong>Fullstack (Website) Developer | Tech Education Mentor</strong></p>
 
 ---
 
